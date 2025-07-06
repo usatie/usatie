@@ -2,7 +2,7 @@ About Me
 - Worked in Japan (2014–2022); relocated to the United States in 2024
 - Master's student in Computer Science at San Francisco State University (Expected graduation: Dec 2025)
 - Passionate about systems programming and low-level software development
-- Currently exploring high-performance computing, compilers, LLVM backend and AI chip emulation.
+- Currently exploring high-performance computing and compilers.
 
 🧑‍💼 Professional Work
 - Founded [mikan](https://mikan.com) and developed Japan’s most popular (9M+ downloads) English vocabulary app from scratch.
