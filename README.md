@@ -15,7 +15,7 @@ About Me
   - Conducted various experiments on Perlmutter at NERSC (HPE Cray Shasta platform)
 
 🧪 Hobby / Independent Projects
-- Built a [Bash clone](https://github.com/usatie/minishell_v2/) in C and wrote a [detailed guide](https://usatie.notion.site/minishell-29921d3ea13447ad897349acd5733d5e) on incremental, unit-test-driven shell development.
+- Built a [Bash clone](https://github.com/usatie/minishell/) in C and wrote a [detailed guide](https://usatie.notion.site/minishell-29921d3ea13447ad897349acd5733d5e) on incremental, unit-test-driven shell development.
 - Developed [Quines](https://github.com/usatie/dr-quine), self-replicating programs that output their own source code.
 - Created an [ELF executable packer](https://github.com/usatie/woody_woodpacker) that encrypts and compresses ELF binaries, which automatically decrypts itself at runtime.
 - Reimplemented the [nm command](https://github.com/usatie/ft_nm) to analyze ELF binaries and extract symbol table information.
