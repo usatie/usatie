@@ -20,7 +20,7 @@ About Me
 - Created an [ELF executable packer](https://github.com/usatie/woody_woodpacker) that encrypts and compresses ELF binaries, which automatically decrypts itself at runtime.
 - Reimplemented the [nm command](https://github.com/usatie/ft_nm) to analyze ELF binaries and extract symbol table information.
 - Built a [Turing Machine Emulator](https://github.com/usatie/ft_turing) to learn OCaml and understand Turing Machine operations.
-- Currently reimplementing the [POSIX lex command](https://github.com/usatie/ft_lex) as a preparation for future compiler development.
+- Currently building [ugrad](https://github.com/usatie/ugrad), a tiny autograd engine with device backend support, inspired by [micrograd](https://github.com/karpathy/micrograd) and [tinygrad](https://github.com/tinygrad/tinygrad).
 
 Let’s connect if you’re interested in systems programming, compilers, or AI infrastructure!
 - [LinkedIn](https://www.linkedin.com/in/usatie/)
